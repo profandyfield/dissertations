@@ -1,0 +1,22 @@
+---
+title: "Statistics and Maths Education"
+bibliography: references.yaml
+---
+
+## Overview
+
+Projects under this heading answer questions such as
+
+1.  What is maths/statistics anxiety and what predicts it [@field2019; @terry2023]?
+2.  What are the social/emotional predictors of mathematical/statistical attainment [@evans2018; @evans2020; @evans2020a; @evans2020b]?
+3.  Can we make statistics easier to understand by manipulating how it is delivered, for example, the use of visual material, narrative contexts, gamification. [This pilot study](http://www.discoveringstatistics.com/docs/rss_poster_2018.pdf) of using narratives to teach statistical concepts is currently being extended and you could get involved in that.
+
+## What's involved
+
+This work could involve online questionnaires, using existing datasets or experimental work. Experimental work (whether at university or within schools) would likely be less than 1 hour in length per participant. It's plausible that measures chosen as potential barriers to learning might tap sensitive topics such as anxiety, depression and other aspects of mental health.
+
+## Resources
+
+-   I've written various things on the topic of teaching some of which may or may not be useful: [@field2014; @field2010; @field2009; @field2014a]
+-   The [SMARVUS](https://osf.io/mhg94/) data set [@terry2023] is a massive resource for projects on this topic
+- The preregistration for the SMARVUS data: [https://osf.io/xs5wf](https://osf.io/xs5wf)

@@ -1,0 +1,27 @@
+---
+title: "Mindshine"
+bibliography: references.yaml
+---
+
+:::callout-warning
+It's not 100% certain that we can access these data. Although I was part of the study team, we need to check details of the consent forms regarding sharing data, and double check any ethical issues around using the data outside of the orginal research team.
+:::
+
+## Overview
+
+The MINDSHINE project was a clinical trial to look at the efficacy of mindfulness to reduce stress in a large cohort of health workers (NHS, UK). Health care workers experience high stress. Accessible, affordable, and effective approaches to reducing stress are lacking. In-person mindfulness-based interventions can reduce health care worker stress but are not widely available or accessible to busy health care workers. Unguided, digital, mindfulness-based self-help (MBSH) interventions show promise and can be flexibly engaged with. However, their effectiveness in reducing health care worker stress has not yet been explored in a definitive trial. Objective: This study aimed to investigate the effectiveness of an unguided digital MBSH app (Headspace) in reducing health care worker stress. The primary analysis was published by @taylor2022
+
+Although the primary outcomes have been published, there are a number of subsiduary analyses that could be done (and it's a big dataset). For example:
+
+- Self-reported adherence is explored as a mediator in the primary analysis. However, the data also contains real app usage data (Headspace arm only), so there's potential to formulate analysis plans around the dose response relationship within the headspace arm.
+- Expectancy and credibility measures are reported in the main paper but not considered in relation to the effects of mindfulness
+- Prior mindfulness experience is mentioned but not analysed in main paper. This variable could be looked at in relation to engagement with the mindfulness app?
+
+
+## What's involved
+
+You would not be dependent on recruiting participants, interacting with people, and would have a lot of flexibility over when you work. Your ethics form will go through the 'low risk' route. You will have to learn statistical methods that you haven't been taught (e.g., growth models). The dataset is actually highly complex, so as appealing as this project seems, it will involve a lot of data wrangling in R, potentially fitting complex models and almost certainly dealing with missing data, which trust me isn't pleasant. However, your R skills will certainly develop! Read the main paper to get a sense of the statistical challenges.
+
+## Resources
+
+-   Trial registration: [https://www.isrctn.com/ISRCTN15424185](https://www.isrctn.com/ISRCTN15424185)

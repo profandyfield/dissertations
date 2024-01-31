@@ -1,0 +1,25 @@
+---
+title: "Meta-analysis"
+bibliography: references.yaml
+---
+
+## Overview
+
+Psychologists are typically interested in finding general answers to questions. Although these answers can sometimes be obtained in single pieces of research, it is common for different researchers to address the same or similar research questions. Meta-analysis is a statistical for pooling results across similar studies to (1) get more precise estimates of the effect of interest; (2) to explore variables that influence the size of effects across studies; and (3) to quantify the variability in effects across studies. It's like a systematic literature review but with a statistical model. I am happy to supervise a meta-analysis in any area of psychology but especially Clinical and Developmental.
+
+Some examples of meta-analyses I have been involved with: [@flack2018; @schweizer2019; @stuijfzand2018; @pearce2016; @ward2019]
+
+## What's involved
+
+Meta-analysis involves reviewing published articles and extracting information from them to analyse. You would not be dependent on recruiting participants, interacting with people, and would have a lot of flexibility over when you work. Your ethics form will go through the 'low risk' route. The papers you review would cover any aspect of psychology and so may include research on sensitive topics (e.g. mental health, sexuality etc.) You will have to learn statistical methods that you haven't been taught.
+
+## Resources
+
+These links are useful for getting to understand meta-analysis:
+
+- The process: For a good overview of the entire process see [The Cochrane Handbook](https://training.cochrane.org/handbook/current)
+- How to write up a meta-analysis (but read before you do one!): [the PRISMA guidelines](http://prisma-statement.org)
+- [Doing meta-analysis with R](https://bookdown.org/MathiasHarrer/Doing_Meta_Analysis_in_R/): a very useful open-source book on meta-analysis in R
+- The [metafor](https://wviechtb.github.io/metafor/) package
+
+

@@ -1,0 +1,16 @@
+---
+title: "Meta-science"
+bibliography: references.yaml
+---
+
+## Overview
+
+Meta-science is the study of the process of science. I will supervise dissertations looking at aspects of meta-science (statistical or otherwise). One area of controversy is the correct application of statistical methods in psychology research and the effect of analytic flexibility on published research results. Projects in this area will evaluate questions such as 
+
+A recent example of what I have done (alongside Martina Sladekova) is work around whether Psychologists check the assumptions of the models they fit and the consequences of not doing so. Some examples of work I've done include @sladekova2022; @field2017; @benjamin2018
+
+I have some vague notions around the idea of looking at the effect of fitting models for continuous data on Likert style data. Basically, Psychologists treat Likert style data as though it is a continuous random variable and fit models accordingly (i.e. regression), but it is not and they should probably use generalized linear models. One idea would be to look at the consequences of this behaviour.
+
+## What's involved
+
+The methods used might consist of (1) reviewing published articles and extracting information from them to analyse; (2) surveys on the use of methodology; (3) data simulation using R. You would not be dependent on recruiting participants, interacting with people, and would have a lot of flexibility over when you work. Your ethics form will go through the 'low risk' route. The papers you review would cover any aspect of psychology and so may include research on sensitive topics (e.g. mental health, sexuality etc.)

@@ -1,0 +1,923 @@
+---
+references:
+- id: flack2018
+  accessed: "12:46:02"
+  author:
+  - family: Flack
+    given: Zoe M.
+  - family: Field
+    given: Andy P.
+  - family: Horst
+    given: Jessica S.
+  container-title: Developmental Psychology
+  DOI: "http://dx.doi.org.ezproxy.sussex.ac.uk/10.1037/dev0000512"
+  ISSN: 0012-1649
+  issue: 7
+  issued: 2018-07
+  key: 69AJFMMV
+  language: English
+  libraryID: 1
+  page: 1334-1346
+  providerKey: 2509FBBE-5BB0-44C4-B119-6083A81ED673
+  rights: © 2018, American Psychological Association
+  source: ProQuest
+  title: "The effects of shared storybook reading on word learning: A
+    meta-analysis"
+  title-short: The effects of shared storybook reading on word learning
+  type: article-journal
+  URL: "http://search.proquest.com/docview/2019686507/abstract/30DD3350957E4855PQ/1"
+  volume: 54
+- id: schweizer2019
+  author:
+  - family: Schweizer
+    given: Susanne
+  - family: Satpute
+    given: Ajay B.
+  - family: Atzil
+    given: Shir
+  - family: Field
+    given: Andy P.
+  - family: Hitchcock
+    given: Caitlin
+  - family: Black
+    given: Melissa
+  - family: Barrett
+    given: Lisa Feldman
+  - family: Dalgleish
+    given: Tim
+  container-title: Psychological Bulletin
+  DOI: 10.1037/bul0000193
+  ISSN: 1939-1455(Electronic),0033-2909(Print)
+  issue: 6
+  issued: 2019
+  key: NFRYQ3TE
+  libraryID: 1
+  page: 566-609
+  providerKey: 2509FBBE-5BB0-44C4-B119-6083A81ED673
+  rights: All rights reserved
+  source: APA PsycNET
+  title: "The impact of affective information on working memory: A pair
+    of meta-analytic reviews of behavioral and neuroimaging evidence"
+  title-short: The impact of affective information on working memory
+  type: article-journal
+  volume: 145
+- id: stuijfzand2018
+  accessed: "16:56:18"
+  author:
+  - family: Stuijfzand
+    given: Suzannah
+  - family: Creswell
+    given: Cathy
+  - family: Field
+    given: Andy P.
+  - family: Pearcey
+    given: Samantha
+  - family: Dodd
+    given: Helen
+  container-title: Journal of Child Psychology and Psychiatry
+  DOI: 10.1111/jcpp.12822
+  ISSN: 1469-7610
+  issue: 11
+  issued: 2018
+  key: XSWX4X57
+  language: en
+  libraryID: 1
+  page: 1127-1142
+  providerKey: 2509FBBE-5BB0-44C4-B119-6083A81ED673
+  rights: © 2017 The Authors. Journal of Child Psychology and Psychiatry
+    published by John Wiley & Sons Ltd on behalf of Association for
+    Child and Adolescent Mental Health.
+  source: Wiley Online Library
+  title: "Research Review: Is anxiety associated with negative
+    interpretations of ambiguity in children and adolescents? A
+    systematic review and meta-analysis"
+  title-short: Research Review
+  type: article-journal
+  URL: "https://onlinelibrary.wiley.com/doi/abs/10.1111/jcpp.12822"
+  volume: 59
+- id: pearce2016
+  author:
+  - family: Pearce
+    given: Laura J.
+  - family: Field
+    given: Andy P.
+  container-title: Human Communication Research
+  ISSN: 0360-3989
+  issued: 2016-01
+  key: VN9HT9Q9
+  libraryID: 1
+  page: 98-121
+  providerKey: 2509FBBE-5BB0-44C4-B119-6083A81ED673
+  rights: All rights reserved
+  title: "The impact of \"scary\" tv and film on children's internalizing
+    emotions: a meta-analysis"
+  type: article-journal
+  volume: 42
+- id: ward2019
+  accessed: "11:37:49"
+  author:
+  - family: Ward
+    given: Jamie
+  - family: Field
+    given: Andy P.
+  - family: Chin
+    given: Taylor
+  container-title: Memory
+  DOI: 10.1080/09658211.2019.1646771
+  ISSN: 0965-8211
+  issue: 0
+  issued: 2019-08-02
+  key: K72HCGNE
+  libraryID: 1
+  page: 1-14
+  providerKey: 2509FBBE-5BB0-44C4-B119-6083A81ED673
+  rights: All rights reserved
+  source: Taylor and Francis+NEJM
+  title: A meta-analysis of memory ability in synaesthesia
+  type: article-journal
+  URL: "https://www.tandfonline.com/doi/abs/10.1080/09658211.2019.1646771"
+  volume: 0
+- id: sladekova2022
+  accessed: "10:29:57"
+  author:
+  - family: Sladekova
+    given: Martina
+  - family: Webb
+    given: Lois E. A.
+  - family: Field
+    given: Andy P.
+  container-title: Psychological Methods
+  container-title-short: Psychological Methods
+  DOI: 10.1037/met0000470
+  ISSN: 1939-1463, 1082-989X
+  issued: 2022-04-21
+  key: 7CZQLG9T
+  language: en
+  libraryID: 1
+  providerKey: 2509FBBE-5BB0-44C4-B119-6083A81ED673
+  rights: All rights reserved
+  source: DOI.org (Crossref)
+  title: Estimating the change in meta-analytic effect size estimates
+    after the application of publication bias adjustment methods.
+  type: article-journal
+  URL: "http://doi.apa.org/getdoi.cfm?doi=10.1037/met0000470"
+- id: field2017
+  author:
+  - family: Field
+    given: Andy P.
+  - family: Wilcox
+    given: Rand R.
+  container-title: Behaviour Research and Therapy
+  DOI: 10.1016/j.brat.2017.05.013
+  ISSN: 0005-7967
+  issued: 2017-11
+  key: T4SF6K72
+  libraryID: 1
+  page: 19-38
+  providerKey: 2509FBBE-5BB0-44C4-B119-6083A81ED673
+  rights: All rights reserved
+  title: "Robust statistical methods: A primer for clinical psychology
+    and experimental psychopathology researchers"
+  type: article-journal
+  volume: 98
+  WOS: 000413132300003
+- id: benjamin2018
+  accessed: "10:00:34"
+  author:
+  - family: Benjamin
+    given: Daniel J.
+  - family: Berger
+    given: James O.
+  - family: Johannesson
+    given: Magnus
+  - family: Nosek
+    given: Brian A.
+  - family: Wagenmakers
+    given: E.-J.
+  - family: Berk
+    given: Richard
+  - family: Bollen
+    given: Kenneth A.
+  - family: Brembs
+    given: Björn
+  - family: Brown
+    given: Lawrence
+  - family: Camerer
+    given: Colin
+  - family: Cesarini
+    given: David
+  - family: Chambers
+    given: Christopher D.
+  - family: Clyde
+    given: Merlise
+  - family: Cook
+    given: Thomas D.
+  - family: Boeck
+    given: Paul De
+  - family: Dienes
+    given: Zoltan
+  - family: Dreber
+    given: Anna
+  - family: Easwaran
+    given: Kenny
+  - family: Efferson
+    given: Charles
+  - family: Fehr
+    given: Ernst
+  - family: Fidler
+    given: Fiona
+  - family: Field
+    given: Andy P.
+  - family: Forster
+    given: Malcolm
+  - family: George
+    given: Edward I.
+  - family: Gonzalez
+    given: Richard
+  - family: Goodman
+    given: Steven
+  - family: Green
+    given: Edwin
+  - family: Green
+    given: Donald P.
+  - family: Greenwald
+    given: Anthony G.
+  - family: Hadfield
+    given: Jarrod D.
+  - family: Hedges
+    given: Larry V.
+  - family: Held
+    given: Leonhard
+  - family: Ho
+    given: Teck Hua
+  - family: Hoijtink
+    given: Herbert
+  - family: Hruschka
+    given: Daniel J.
+  - family: Imai
+    given: Kosuke
+  - family: Imbens
+    given: Guido
+  - family: Ioannidis
+    given: John P. A.
+  - family: Jeon
+    given: Minjeong
+  - family: Jones
+    given: James Holland
+  - family: Kirchler
+    given: Michael
+  - family: Laibson
+    given: David
+  - family: List
+    given: John
+  - family: Little
+    given: Roderick
+  - family: Lupia
+    given: Arthur
+  - family: Machery
+    given: Edouard
+  - family: Maxwell
+    given: Scott E.
+  - family: McCarthy
+    given: Michael
+  - family: Moore
+    given: Don A.
+  - family: Morgan
+    given: Stephen L.
+  - family: Munafó
+    given: Marcus
+  - family: Nakagawa
+    given: Shinichi
+  - family: Nyhan
+    given: Brendan
+  - family: Parker
+    given: Timothy H.
+  - family: Pericchi
+    given: Luis
+  - family: Perugini
+    given: Marco
+  - family: Rouder
+    given: Jeff
+  - family: Rousseau
+    given: Judith
+  - family: Savalei
+    given: Victoria
+  - family: Schönbrodt
+    given: Felix D.
+  - family: Sellke
+    given: Thomas
+  - family: Sinclair
+    given: Betsy
+  - family: Tingley
+    given: Dustin
+  - family: Zandt
+    given: Trisha Van
+  - family: Vazire
+    given: Simine
+  - family: Watts
+    given: Duncan J.
+  - family: Winship
+    given: Christopher
+  - family: Wolpert
+    given: Robert L.
+  - family: Xie
+    given: Yu
+  - family: Young
+    given: Cristobal
+  - family: Zinman
+    given: Jonathan
+  - family: Johnson
+    given: Valen E.
+  container-title: Nature Human Behaviour
+  DOI: 10.1038/s41562-017-0189-z
+  ISSN: 2397-3374
+  issued: 2018-01
+  key: RDTX3TAS
+  language: en
+  libraryID: 1
+  page: 6-10
+  providerKey: 2509FBBE-5BB0-44C4-B119-6083A81ED673
+  rights: 2017 The Author(s)
+  source: www.nature.com
+  title: Redefine statistical significance
+  type: article-journal
+  URL: "https://www.nature.com/articles/s41562-017-0189-z"
+  volume: 2
+- id: taylor2022
+  author:
+  - family: Taylor
+    given: Heather
+  - family: Cavanagh
+    given: Kate
+  - family: Field
+    given: Andy P
+  - family: Strauss
+    given: Clara
+  container-title: Journal of Medical Internet Research
+  DOI: 10.2196/31744
+  issue: 8
+  issued: 2022
+  key: KSYKY24C
+  libraryID: 1
+  page: e31744
+  providerKey: 2509FBBE-5BB0-44C4-B119-6083A81ED673
+  rights: All rights reserved
+  title: Do healthcare workers need a little Headspace? Findings from a
+    multi-site definitive randomised controlled trial of an unguided
+    digital mindfulness-based self-help intervention to reduce
+    healthcare worker stress in comparison to an active control.
+  type: article-journal
+  volume: 10
+- id: field2019
+  accessed: "11:29:55"
+  author:
+  - family: Field
+    given: Andy P.
+  - family: Evans
+    given: Danielle
+  - family: Bloniewski
+    given: Tomasz
+  - family: Kovas
+    given: Yulia
+  container-title: Royal Society Open Science
+  container-title-short: R. Soc. open sci.
+  DOI: 10.1098/rsos.191459
+  ISSN: 2054-5703, 2054-5703
+  issue: 11
+  issued: 2019-11-29
+  key: 24HWA3U7
+  language: en
+  libraryID: 1
+  page: 191459
+  providerKey: 2509FBBE-5BB0-44C4-B119-6083A81ED673
+  rights: All rights reserved
+  source: DOI.org (Crossref)
+  title: Predicting maths anxiety from mathematical achievement across
+    the transition from primary to secondary education
+  type: article-journal
+  URL: "https://royalsocietypublishing.org/doi/10.1098/rsos.191459"
+  volume: 6
+- id: evans2018
+  accessed: "08:51:14"
+  author:
+  - family: Evans
+    given: Danielle
+  - family: Borriello
+    given: Giulia A.
+  - family: Field
+    given: Andy P.
+  container-title: Frontiers in Psychology
+  container-title-short: Front. Psychol.
+  DOI: 10.3389/fpsyg.2018.01482
+  ISSN: 1664-1078
+  issued: 2018
+  key: QWBGYUH7
+  language: English
+  libraryID: 1
+  providerKey: 2509FBBE-5BB0-44C4-B119-6083A81ED673
+  source: Frontiers
+  title: A review of the academic and psychological impact of the
+    transition to secondary education
+  type: article-journal
+  URL: "https://www.frontiersin.org/articles/10.3389/fpsyg.2018.01482/full"
+  volume: 9
+- id: evans2020
+  accessed: "10:42:11"
+  author:
+  - family: Evans
+    given: Danielle
+  - family: Gaysina
+    given: Darya
+  - family: Field
+    given: Andy P.
+  container-title: Royal Society Open Science
+  container-title-short: Royal Society Open Science
+  DOI: 10.1098/rsos.191433
+  issue: 5
+  issued: 2020
+  key: 8GMMZIZV
+  libraryID: 1
+  page: 191433
+  providerKey: 2509FBBE-5BB0-44C4-B119-6083A81ED673
+  Publisher: Royal
+  rights: All rights reserved
+  source: royalsocietypublishing.org (Atypon)
+  title: Internalizing symptoms and working memory as predictors of
+    mathematical attainment trajectories across the primary--secondary
+    education transition
+  type: article-journal
+  URL: "https://royalsocietypublishing.org/doi/10.1098/rsos.191433"
+  volume: 7
+- id: evans2020a
+  author:
+  - family: Evans
+    given: Danielle
+  - family: Field
+    given: Andy P
+  container-title: Royal Society Open Science
+  DOI: "https://doi.org/10.1098/rsos.200975"
+  issued: 2020
+  key: EGWYNPJF
+  language: en
+  libraryID: 1
+  page: 25
+  providerKey: 2509FBBE-5BB0-44C4-B119-6083A81ED673
+  rights: All rights reserved
+  source: Zotero
+  title: Maths attitudes, school affect and teacher characteristics as
+    predictors of maths attainment trajectories in primary and secondary
+    education
+  type: article-journal
+  volume: "7: 200975"
+- id: evans2020a
+  author:
+  - family: Evans
+    given: Danielle
+  - family: Field
+    given: Andy P
+  container-title: Royal Society Open Science
+  DOI: "https://doi.org/10.1098/rsos.200975"
+  issued: 2020
+  key: EGWYNPJF
+  language: en
+  libraryID: 1
+  page: 25
+  providerKey: 2509FBBE-5BB0-44C4-B119-6083A81ED673
+  rights: All rights reserved
+  source: Zotero
+  title: Maths attitudes, school affect and teacher characteristics as
+    predictors of maths attainment trajectories in primary and secondary
+    education
+  type: article-journal
+  volume: "7: 200975"
+- id: evans2020b
+  accessed: "11:24:17"
+  author:
+  - family: Evans
+    given: Danielle
+  - family: Field
+    given: Andy P.
+  container-title: Royal Society Open Science
+  container-title-short: Royal Society Open Science
+  DOI: 10.1098/rsos.200422
+  issue: 7
+  issued: 2020
+  key: HVWBMMGM
+  libraryID: 1
+  page: 200422
+  providerKey: 2509FBBE-5BB0-44C4-B119-6083A81ED673
+  Publisher: Royal
+  rights: All rights reserved
+  source: royalsocietypublishing.org (Atypon)
+  title: "Predictors of mathematical attainment trajectories across the
+    primary-to-secondary education transition: parental factors and the
+    home environment"
+  title-short: Predictors of mathematical attainment trajectories across
+    the primary-to-secondary education transition
+  type: article-journal
+  URL: "https://royalsocietypublishing.org/doi/10.1098/rsos.200422"
+  volume: 7
+- id: terry2023
+  author:
+  - family: Terry
+    given: Jenny
+  - family: Ross
+    given: Robert M.
+  - family: Nagy
+    given: Tamás
+  - family: Salgado
+    given: Mauricio
+  - family: Garrido-Vásquez
+    given: Patricia
+  - family: Sarfo
+    given: Jacob O.
+  - family: Cooper
+    given: Susan
+  - family: Buttner
+    given: Anke C.
+  - family: Lima
+    given: Tiago J. S.
+  - family: Öztürk
+    given: İbrahim
+  - family: Akay
+    given: Nazlı
+  - family: Santos
+    given: Flavia H.
+  - family: Artemenko
+    given: Christina
+  - family: Copping
+    given: Lee T.
+  - family: Elsherif
+    given: Mahmoud M.
+  - family: Milovanović
+    given: Ilija
+  - family: Cribbie
+    given: Robert A.
+  - family: Drushlyak
+    given: Marina G.
+  - family: Swainston
+    given: Katherine
+  - family: Shou
+    given: Yiyun
+  - family: Leongómez
+    given: Juan David
+  - family: Palena
+    given: Nicola
+  - family: Abidin
+    given: Fitri A.
+  - family: Reyes-Rodríguez
+    given: Maria F.
+  - family: He
+    given: Yunfeng
+  - family: Abraham
+    given: Juneman
+  - family: Vatakis
+    given: Argiro
+  - family: Jankowsky
+    given: Kristin
+  - family: Schmidt
+    given: Stephanie N. L.
+  - family: Grimm
+    given: Elise
+  - family: González
+    given: Desirée
+  - family: Schmid
+    given: Philipp
+  - family: Ferreira
+    given: Roberto A.
+  - family: Rozgonjuk
+    given: Dmitri
+  - family: Özhan
+    given: Neslihan
+  - family: O'Connor
+    given: Patrick A.
+  - family: Zsido
+    given: Andras N.
+  - family: Stiglic
+    given: Gregor
+  - family: Rhodes
+    given: Darren
+  - family: Rodríguez
+    given: Cristina
+  - family: Ropovik
+    given: Ivan
+  - family: Enea
+    given: Violeta
+  - family: Nurwanti
+    given: Ratri
+  - family: Estudillo
+    given: Alejandro J.
+  - family: Beribisky
+    given: Nataly
+  - family: Himawan
+    given: Karel K.
+  - family: Geven
+    given: Linda M.
+  - family: Hoogmoed
+    given: Anne H.
+    non-dropping-particle: van
+  - family: Bret
+    given: Amélie
+  - family: Chapman
+    given: Jodie E.
+  - family: Alter
+    given: Udi
+  - family: Flack
+    given: Zoe M.
+  - family: Hanna
+    given: Donncha
+  - family: Soltanlou
+    given: Mojtaba
+  - family: Banik
+    given: Gabriel
+  - family: Adamkovič
+    given: Matúš
+  - family: Ven
+    given: Sanne H. G.
+    non-dropping-particle: van der
+  - family: Mosbacher
+    given: Jochen A.
+  - family: Şen
+    given: Hilal H.
+  - family: Anderson
+    given: Joel R.
+  - family: Batashvili
+    given: Michael
+  - family: Groot
+    given: Kristel
+    non-dropping-particle: de
+  - family: Parker
+    given: Matthew O.
+  - family: Helmy
+    given: Mai
+  - family: Ostroha
+    given: Mariia M.
+  - family: Gilligan-Lee
+    given: Katie A.
+  - family: Egara
+    given: Felix O.
+  - family: Barwood
+    given: Martin J.
+  - family: Thomas
+    given: Karuna
+  - family: McMahon
+    given: Grace
+  - family: Griffin
+    given: Siobhán M.
+  - family: Nuerk
+    given: Hans-Christoph
+  - family: Counsell
+    given: Alyssa
+  - family: Lindemann
+    given: Oliver
+  - family: Van Rooy
+    given: Dirk
+  - family: Wege
+    given: Theresa E.
+  - family: Lewis
+    given: Joanna E.
+  - family: Aczel
+    given: Balazs
+  - family: Monaghan
+    given: Conal
+  - family: Al-Hoorie
+    given: Ali H.
+  - family: Huber
+    given: Julia F.
+  - family: Yapan
+    given: Saadet
+  - family: Garrido Vásquez
+    given: Mauricio E.
+  - family: Callea
+    given: Antonino
+  - family: Ergiyen
+    given: Tolga
+  - family: Clay
+    given: James M.
+  - family: Mertens
+    given: Gaetan
+  - family: Topçu
+    given: Feyza
+  - family: Tutlu
+    given: Merve G.
+  - family: Täht
+    given: Karin
+  - family: Mikkor
+    given: Kristel
+  - family: Caso
+    given: Letizia
+  - family: Karner
+    given: Alexander
+  - family: Storm
+    given: Maxine M. C.
+  - family: Daroczy
+    given: Gabriella
+  - family: Zein
+    given: Rizqy A.
+  - family: Greco
+    given: Andrea
+  - family: Buchanan
+    given: Erin M.
+  - family: Schmid
+    given: Katharina
+  - family: Hunt
+    given: Thomas E.
+  - family: De keersmaecker
+    given: Jonas
+  - family: Branney
+    given: Peter E.
+  - family: Randell
+    given: Jordan
+  - family: Clark
+    given: Oliver J.
+  - family: Steltenpohl
+    given: Crystal N.
+  - family: Malu
+    given: Bhasker
+  - family: Tekeş
+    given: Burcu
+  - family: Ramis
+    given: TamilSelvan
+  - family: Agrigoroaei
+    given: Stefan
+  - family: Badcock
+    given: Nicholas A.
+  - family: McAloney-Kocaman
+    given: Kareena
+  - family: Semenikhina
+    given: Olena V.
+  - family: Graf
+    given: Erich W.
+  - family: Lea
+    given: Charlie
+  - family: Ogba
+    given: Kalu T. U.
+  - family: Guppy
+    given: Fergus M.
+  - family: Warhurst
+    given: Amy C.
+  - family: Lindsay
+    given: Shane
+  - family: Al Khateeb
+    given: Ahmed
+  - family: Scharnowski
+    given: Frank
+  - family: Kwaadsteniet
+    given: Leontien
+    non-dropping-particle: de
+  - family: Francis
+    given: Kathryn B.
+  - family: Lecompte
+    given: Mariah
+  - family: Webster
+    given: Lisa A. D.
+  - family: Morsanyi
+    given: Kinga
+  - family: Forwood
+    given: Suzanna E.
+  - family: Walters
+    given: Elizabeth R.
+  - family: Tip
+    given: Linda K.
+  - family: Wagge
+    given: Jordan R.
+  - family: Lai
+    given: Ho Yan
+  - family: Crossland
+    given: Deborah S.
+  - family: Darda
+    given: Kohinoor M.
+  - family: Flack
+    given: Tessa R.
+  - family: Leviston
+    given: Zoe
+  - family: Brolly
+    given: Matthew
+  - family: Hills
+    given: Samuel P.
+  - family: Collins
+    given: Elizabeth
+  - family: Roberts
+    given: Andrew J.
+  - family: Cheung
+    given: Wing-Yee
+  - family: Leonard
+    given: Sophie
+  - family: Verschuere
+    given: Bruno
+  - family: Stanley
+    given: Samantha K.
+  - family: Xenidou-Dervou
+    given: Iro
+  - family: Ghasemi
+    given: Omid
+  - family: Liew
+    given: Timothy
+  - family: Ansari
+    given: Daniel
+  - family: Guilaran
+    given: Johnrev
+  - family: Penny
+    given: Samuel G.
+  - family: Bahnmueller
+    given: Julia
+  - family: Hand
+    given: Christopher J.
+  - family: Rahajeng
+    given: Unita W.
+  - family: Peterburg
+    given: Dar
+  - family: Takacs
+    given: Zsofia K.
+  - family: Platow
+    given: Michael J.
+  - family: Field
+    given: Andy P.
+  container-title: Journal of Open Psychology Data
+  DOI: 10.5334/jopd.80
+  issued: 2023
+  key: 2Q8U8DEE
+  libraryID: 1
+  providerKey: 2509FBBE-5BB0-44C4-B119-6083A81ED673
+  rights: All rights reserved
+  title: Data from an International Multi-Centre Study of Statistics and
+    Mathematics Anxieties and Related Variables in University Students
+    (the SMARVUS Dataset)
+  type: article-journal
+- id: field2014
+  author:
+  - family: Field
+    given: Andy P.
+  container-title: "For the Love of Learning: innovations from
+    outstanding university teachers"
+  editor:
+  - family: Bilham
+    given: T.
+  issued: 2014
+  key: 3STWV8FI
+  libraryID: 1
+  providerKey: 2509FBBE-5BB0-44C4-B119-6083A81ED673
+  publisher: Palgrave Macmillan
+  publisher-place: Basingstoke, GB
+  title: "De-mystifying statistics: bring your imprimatur ... to the
+    laughter"
+  type: chapter
+- id: field2010
+  accessed: "15:00:59"
+  author:
+  - family: Field
+    given: Andy P.
+  container-title: Teaching Psychology in Higher Education
+  DOI: 10.1002/9781444320732.ch6
+  editor:
+  - family: Upton, Dominic
+  - family: Trapp, Annie
+  ISBN: 978-1-4443-2073-2
+  issued: 2010
+  key: C5S7W4K3
+  language: en
+  libraryID: 1
+  page: 134-163
+  providerKey: 2509FBBE-5BB0-44C4-B119-6083A81ED673
+  publisher: John Wiley & Sons, Ltd
+  rights: Copyright © 2010 Blackwell Publishing Ltd
+  source: Wiley Online Library
+  title: Non-Sadistical Methods for Teaching Statistics
+  type: chapter
+  URL: "https://onlinelibrary.wiley.com/doi/abs/10.1002/9781444320732.ch6"
+- id: field2009
+  author:
+  - family: Field
+    given: Andy
+  container-title: Psychologist
+  issue: 3
+  issued: 2009
+  key: BRTZ2Z8B
+  language: en
+  libraryID: 1
+  page: 210--213
+  providerKey: 2509FBBE-5BB0-44C4-B119-6083A81ED673
+  rights: All rights reserved
+  source: Zotero
+  title: Can humour make students love statistics?
+  type: article-journal
+  volume: 22
+- id: field2014a
+  author:
+  - family: Field
+    given: Andy P.
+  genre: Report
+  issued: 2014
+  key: ZFC9VVM4
+  language: en
+  libraryID: 1
+  page: 44
+  providerKey: 2509FBBE-5BB0-44C4-B119-6083A81ED673
+  publisher: The Higher Education Academy
+  publisher-place: York, UK
+  rights: All rights reserved
+  title: Skills in mathematics and statistics in psychology and tackling
+    transition
+  type: report
+  URL: "https://www.advance-he.ac.uk/knowledge-hub/skills-mathematics-and-statistics-psychology-and-tackling-transition"
+...

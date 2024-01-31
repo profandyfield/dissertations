@@ -1,0 +1,64 @@
+website:
+  title: "Dissertations"                                # Your name
+  description: "Resources for dissertation students"   # A brief slogan (optional)
+  image: images/ch3_2_circle_lab.png
+  favicon: images/favicon.png
+  navbar:  
+    pinned: true
+    logo: /images/logo.png
+    left:
+      - text: "Secondary data"
+        menu: 
+          - text: "Secondary data"
+            href: pages/ma.qmd
+          - text: "Mindshine"
+            href: pages/mindshine.qmd
+      - text: "Meta-science"
+        href: pages/meta_science.qmd
+      - text: "Stats Ed"
+        href: pages/stats_ed.qmd
+    right:
+      - icon: github
+        href: https://github.com/profandyfield
+      - icon: r-circle-fill
+        href: https://www.discovr.rocks
+      - text: "{{< iconify fa6-brands x-twitter >}}"
+        href: https://twitter.com/profandyfield
+      - icon: linkedin
+        href: https://www.linkedin.com/in/profandyfield/
+  search: 
+    location: navbar
+    type: textbox
+  page-footer: 
+    center: |
+      <span class="faux-block">&#169; 2023 Andy Field CC BY-SA 4.0</span>
+
+project:
+  type: website
+  output-dir: docs
+  preview: 
+    port: 22222
+    browser: true
+    watch-inputs: true
+    navigate: true
+execute:
+  freeze: true
+  echo: false
+  warnings: false
+  message: false
+format:
+  html:
+    fontsize: 1.1em
+    theme:
+      light: [pulse, html/styles.scss]
+      dark: darkly
+    toc: true
+    toc_depth: 2
+    toc-location: left
+    toc-title: Chapters
+    toc_float: true
+    code-link: true
+    anchor-sections: true
+    fig-cap-location: margin
+    reference-location: margin
+    footnotes-hover: true

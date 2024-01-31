@@ -1,0 +1,121 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Dissertations",
+    "section": "",
+    "text": "I supervise dissertations in the areas of\n\nSecondary data analysis\n\nMeta-analysis: Meta-analysis is a statistical for pooling results across similar studies. It’s like a systematic literature review but with a statistical model. I am happy to supervise meta-analysis in any area of psychology but especially Clinical and Developmental.\nMINDSHINE: The MINDSHINE project was a clinical trial to look at the efficacy of mindfulness to reduce stress in a large cohort of health workers (NHS, UK). There are various secondary analyses that need doing./could be done.\n\nMeta-science: The use (and abuse) of statistical methods in psychological science.\nMathematical/statistical education: projects around maths and statistics anxiety, how to better teach statistical concepts and so on.\n\nI will not supervise dissertations outside of these areas"
+  },
+  {
+    "objectID": "pages/ma.html",
+    "href": "pages/ma.html",
+    "title": "Meta-analysis",
+    "section": "",
+    "text": "Psychologists are typically interested in finding general answers to questions. Although these answers can sometimes be obtained in single pieces of research, it is common for different researchers to address the same or similar research questions. Meta-analysis is a statistical for pooling results across similar studies to (1) get more precise estimates of the effect of interest; (2) to explore variables that influence the size of effects across studies; and (3) to quantify the variability in effects across studies. It’s like a systematic literature review but with a statistical model. I am happy to supervise a meta-analysis in any area of psychology but especially Clinical and Developmental.\nSome examples of meta-analyses I have been involved with: (Flack, Field, and Horst 2018; Schweizer et al. 2019; Stuijfzand et al. 2018; Pearce and Field 2016; Ward, Field, and Chin 2019)"
+  },
+  {
+    "objectID": "pages/ma.html#overview",
+    "href": "pages/ma.html#overview",
+    "title": "Meta-analysis",
+    "section": "",
+    "text": "Psychologists are typically interested in finding general answers to questions. Although these answers can sometimes be obtained in single pieces of research, it is common for different researchers to address the same or similar research questions. Meta-analysis is a statistical for pooling results across similar studies to (1) get more precise estimates of the effect of interest; (2) to explore variables that influence the size of effects across studies; and (3) to quantify the variability in effects across studies. It’s like a systematic literature review but with a statistical model. I am happy to supervise a meta-analysis in any area of psychology but especially Clinical and Developmental.\nSome examples of meta-analyses I have been involved with: (Flack, Field, and Horst 2018; Schweizer et al. 2019; Stuijfzand et al. 2018; Pearce and Field 2016; Ward, Field, and Chin 2019)"
+  },
+  {
+    "objectID": "pages/ma.html#whats-involved",
+    "href": "pages/ma.html#whats-involved",
+    "title": "Meta-analysis",
+    "section": "What’s involved",
+    "text": "What’s involved\nMeta-analysis involves reviewing published articles and extracting information from them to analyse. You would not be dependent on recruiting participants, interacting with people, and would have a lot of flexibility over when you work. Your ethics form will go through the ‘low risk’ route. The papers you review would cover any aspect of psychology and so may include research on sensitive topics (e.g. mental health, sexuality etc.) You will have to learn statistical methods that you haven’t been taught."
+  },
+  {
+    "objectID": "pages/ma.html#resources",
+    "href": "pages/ma.html#resources",
+    "title": "Meta-analysis",
+    "section": "Resources",
+    "text": "Resources\nThese links are useful for getting to understand meta-analysis:\n\nThe process: For a good overview of the entire process see The Cochrane Handbook\nHow to write up a meta-analysis (but read before you do one!): the PRISMA guidelines\nDoing meta-analysis with R: a very useful open-source book on meta-analysis in R\nThe metafor package"
+  },
+  {
+    "objectID": "pages/meta_science.html",
+    "href": "pages/meta_science.html",
+    "title": "Meta-science",
+    "section": "",
+    "text": "Meta-science is the study of the process of science. I will supervise dissertations looking at aspects of meta-science (statistical or otherwise). One area of controversy is the correct application of statistical methods in psychology research and the effect of analytic flexibility on published research results. Projects in this area will evaluate questions such as\nA recent example of what I have done (alongside Martina Sladekova) is work around whether Psychologists check the assumptions of the models they fit and the consequences of not doing so. Some examples of work I’ve done include Sladekova, Webb, and Field (2022); Field and Wilcox (2017); Benjamin et al. (2018)\nI have some vague notions around the idea of looking at the effect of fitting models for continuous data on Likert style data. Basically, Psychologists treat Likert style data as though it is a continuous random variable and fit models accordingly (i.e. regression), but it is not and they should probably use generalized linear models. One idea would be to look at the consequences of this behaviour."
+  },
+  {
+    "objectID": "pages/meta_science.html#overview",
+    "href": "pages/meta_science.html#overview",
+    "title": "Meta-science",
+    "section": "",
+    "text": "Meta-science is the study of the process of science. I will supervise dissertations looking at aspects of meta-science (statistical or otherwise). One area of controversy is the correct application of statistical methods in psychology research and the effect of analytic flexibility on published research results. Projects in this area will evaluate questions such as\nA recent example of what I have done (alongside Martina Sladekova) is work around whether Psychologists check the assumptions of the models they fit and the consequences of not doing so. Some examples of work I’ve done include Sladekova, Webb, and Field (2022); Field and Wilcox (2017); Benjamin et al. (2018)\nI have some vague notions around the idea of looking at the effect of fitting models for continuous data on Likert style data. Basically, Psychologists treat Likert style data as though it is a continuous random variable and fit models accordingly (i.e. regression), but it is not and they should probably use generalized linear models. One idea would be to look at the consequences of this behaviour."
+  },
+  {
+    "objectID": "pages/meta_science.html#whats-involved",
+    "href": "pages/meta_science.html#whats-involved",
+    "title": "Meta-science",
+    "section": "What’s involved",
+    "text": "What’s involved\nThe methods used might consist of (1) reviewing published articles and extracting information from them to analyse; (2) surveys on the use of methodology; (3) data simulation using R. You would not be dependent on recruiting participants, interacting with people, and would have a lot of flexibility over when you work. Your ethics form will go through the ‘low risk’ route. The papers you review would cover any aspect of psychology and so may include research on sensitive topics (e.g. mental health, sexuality etc.)"
+  },
+  {
+    "objectID": "pages/mindshine.html",
+    "href": "pages/mindshine.html",
+    "title": "Mindshine",
+    "section": "",
+    "text": "Warning\n\n\n\nIt’s not 100% certain that we can access these data. Although I was part of the study team, we need to check details of the consent forms regarding sharing data, and double check any ethical issues around using the data outside of the orginal research team."
+  },
+  {
+    "objectID": "pages/mindshine.html#overview",
+    "href": "pages/mindshine.html#overview",
+    "title": "Mindshine",
+    "section": "Overview",
+    "text": "Overview\nThe MINDSHINE project was a clinical trial to look at the efficacy of mindfulness to reduce stress in a large cohort of health workers (NHS, UK). Health care workers experience high stress. Accessible, affordable, and effective approaches to reducing stress are lacking. In-person mindfulness-based interventions can reduce health care worker stress but are not widely available or accessible to busy health care workers. Unguided, digital, mindfulness-based self-help (MBSH) interventions show promise and can be flexibly engaged with. However, their effectiveness in reducing health care worker stress has not yet been explored in a definitive trial. Objective: This study aimed to investigate the effectiveness of an unguided digital MBSH app (Headspace) in reducing health care worker stress. The primary analysis was published by Taylor et al. (2022)\nAlthough the primary outcomes have been published, there are a number of subsiduary analyses that could be done (and it’s a big dataset). For example:\n\nSelf-reported adherence is explored as a mediator in the primary analysis. However, the data also contains real app usage data (Headspace arm only), so there’s potential to formulate analysis plans around the dose response relationship within the headspace arm.\nExpectancy and credibility measures are reported in the main paper but not considered in relation to the effects of mindfulness\nPrior mindfulness experience is mentioned but not analysed in main paper. This variable could be looked at in relation to engagement with the mindfulness app?"
+  },
+  {
+    "objectID": "pages/mindshine.html#whats-involved",
+    "href": "pages/mindshine.html#whats-involved",
+    "title": "Mindshine",
+    "section": "What’s involved",
+    "text": "What’s involved\nYou would not be dependent on recruiting participants, interacting with people, and would have a lot of flexibility over when you work. Your ethics form will go through the ‘low risk’ route. You will have to learn statistical methods that you haven’t been taught (e.g., growth models). The dataset is actually highly complex, so as appealing as this project seems, it will involve a lot of data wrangling in R, potentially fitting complex models and almost certainly dealing with missing data, which trust me isn’t pleasant. However, your R skills will certainly develop! Read the main paper to get a sense of the statistical challenges."
+  },
+  {
+    "objectID": "pages/mindshine.html#resources",
+    "href": "pages/mindshine.html#resources",
+    "title": "Mindshine",
+    "section": "Resources",
+    "text": "Resources\n\nTrial registration: https://www.isrctn.com/ISRCTN15424185"
+  },
+  {
+    "objectID": "pages/sda.html",
+    "href": "pages/sda.html",
+    "title": "Secondary data analysis",
+    "section": "",
+    "text": "Secondary data analysis"
+  },
+  {
+    "objectID": "pages/stats_ed.html",
+    "href": "pages/stats_ed.html",
+    "title": "Statistics and Maths Education",
+    "section": "",
+    "text": "Projects under this heading answer questions such as\n\nWhat is maths/statistics anxiety and what predicts it (A. P. Field et al. 2019; Terry et al. 2023)?\nWhat are the social/emotional predictors of mathematical/statistical attainment (Evans, Borriello, and Field 2018; Evans, Gaysina, and Field 2020; Evans and Field 2020a; Evans and Field 2020b)?\nCan we make statistics easier to understand by manipulating how it is delivered, for example, the use of visual material, narrative contexts, gamification. This pilot study of using narratives to teach statistical concepts is currently being extended and you could get involved in that."
+  },
+  {
+    "objectID": "pages/stats_ed.html#overview",
+    "href": "pages/stats_ed.html#overview",
+    "title": "Statistics and Maths Education",
+    "section": "",
+    "text": "Projects under this heading answer questions such as\n\nWhat is maths/statistics anxiety and what predicts it (A. P. Field et al. 2019; Terry et al. 2023)?\nWhat are the social/emotional predictors of mathematical/statistical attainment (Evans, Borriello, and Field 2018; Evans, Gaysina, and Field 2020; Evans and Field 2020a; Evans and Field 2020b)?\nCan we make statistics easier to understand by manipulating how it is delivered, for example, the use of visual material, narrative contexts, gamification. This pilot study of using narratives to teach statistical concepts is currently being extended and you could get involved in that."
+  },
+  {
+    "objectID": "pages/stats_ed.html#whats-involved",
+    "href": "pages/stats_ed.html#whats-involved",
+    "title": "Statistics and Maths Education",
+    "section": "What’s involved",
+    "text": "What’s involved\nThis work could involve online questionnaires, using existing datasets or experimental work. Experimental work (whether at university or within schools) would likely be less than 1 hour in length per participant. It’s plausible that measures chosen as potential barriers to learning might tap sensitive topics such as anxiety, depression and other aspects of mental health."
+  },
+  {
+    "objectID": "pages/stats_ed.html#resources",
+    "href": "pages/stats_ed.html#resources",
+    "title": "Statistics and Maths Education",
+    "section": "Resources",
+    "text": "Resources\n\nI’ve written various things on the topic of teaching some of which may or may not be useful: (A. P. Field 2014a, 2010, 2014b; A. Field 2009)\nThe SMARVUS data set (Terry et al. 2023) is a massive resource for projects on this topic\nThe preregistration for the SMARVUS data: https://osf.io/xs5wf"
+  }
+]

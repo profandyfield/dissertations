@@ -1,0 +1,31 @@
+---
+about:
+  template: trestles
+  id: about-block
+  image: "images/ch3_2_circle_lab.png"
+  links:
+    - text: "{{< iconify fa6-brands x-twitter >}}"
+      href: https://twitter.com/profandyfield
+    - icon: github
+      href: https://github.com/profandyfield
+    - icon: linkedin
+      href: https://www.linkedin.com/in/profandyfield
+---
+
+::: {#about-block}
+
+
+I supervise dissertations in the areas of
+
+- Secondary data analysis
+  - [Meta-analysis](pages/ma.qmd):  Meta-analysis is a statistical for pooling results across similar studies. It's like a systematic literature review but with a statistical model. I am happy to supervise meta-analysis in any area of psychology but especially Clinical and Developmental.
+  - [MINDSHINE](pages/mindshine.qmd): The MINDSHINE project was a clinical trial to look at the efficacy of mindfulness to reduce stress in a large cohort of health workers (NHS, UK). There are various secondary analyses that need doing./could be done.
+- [Meta-science](pages/meta_science.qmd): The use (and abuse) of statistical methods in psychological science.
+- [Mathematical/statistical education](pages/stats_ed.qmd): projects around maths and statistics anxiety, how to better teach statistical concepts and so on.
+
+I will not supervise dissertations outside of these areas
+:::
+
+
+
+
